@@ -8,9 +8,9 @@ CrowdSale starts  22 June 2018 00:00 GMT+2 | 15 August 2018 00:00 GMT+2
 Tokens Max Supply 100,000,000 REDC Tokens.
 
 
-Tokens Distribution
+Tokens Distribution (38/62)
 
-Reserved Tokens 38,000,000 REDC (38%)
+Total Reserved Tokens 38,000,000 REDC (38%)
 
 25% Reserved for Proof-Of-Driving & Proof-of-Marketing token generation@25,000,000
 
