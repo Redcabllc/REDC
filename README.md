@@ -24,7 +24,7 @@ Total Reserved Tokens 38,000,000 REDC (38%)
 
 Total Tokens Available for Sale 62,000,000 REDC (62%)
 
-7% Private Sale @67%-3906REDC/ETH |@40%-3266/ETH
+7% Private Sale @67%-3906REDC/ETH
 
 15% Presale @15%-2682REDC/ETH
 
@@ -32,7 +32,7 @@ Total Tokens Available for Sale 62,000,000 REDC (62%)
 
 
 
-Total Circulating Tokens post ICO - After August 15th 2018 are 38,000,000 REDC + Minted REDC tokens from Private Sale + Minted REDC Tokens from PreSale + Minted REDC Tokens from Crowdsale.
+Total Circulating Tokens post ICO (After August 15th 2018) are 38,000,000 REDC + Minted REDC tokens from Private Sale + Minted REDC Tokens from PreSale + Minted REDC Tokens from Crowdsale.
 
 Max Funding goal: 24529 ETH
 
